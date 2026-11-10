@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://vibecoder-bulavin.github.io/shale-viliia/sitemap.xml
